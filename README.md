@@ -1,10 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=SMILES00714&theme=blue-green&show_icons=true" align="left" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMILES00714&layout=compact" align="left" 
-width="47%"/>
-
-<br/>
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
