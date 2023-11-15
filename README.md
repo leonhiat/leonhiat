@@ -14,28 +14,24 @@
 
 ## 👩  About me:
 <p>
-I am senior <b>AI</b> & <b>Web Developer</b> for 8 years with <b>Blockchain</b>.<br>
+I am senior <b>AI</b> & <b>Web Developer</b> for 7+ years with <b>Blockchain</b>.<br>
 I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
 
 <h2>🥇 Main Skills:</h2>
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
+💧 FrontEnd: HTML, HTML5, CSS, CSS3, SASS, PHP, Laravel, Drupal, Tailwind CSS, JavaScript, jQuery, TypeScript, React, Angular, Vue.js, Redux, Next.js, styled-component, Bootstrap Material UI...
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence, Ruby on Rails
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Django Rest Framework, GraphQL...
 
-☀️ Mobile App: React Native, Android Java, C#
+☀️ Mobile App: React Native, Android Java, C#...
 
-🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+🚀 Database: MySQL, MongoDB, PostgreSQL...
 
-💥 Others: D3.js, ChartJS, React-hook-form, tanstack, Three.js, PixiJS PhaserJS, RESTful, Apollo GraphQL, Hasura, tRPC, Adobe XD, Adobe PhotoShop, Adobe After Effects
-
-💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Graphic Design, Logo Design, Web Design, Mobile App Design, E-commerce, WooCommerce
-
-★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
+💥 Blockchain: Web3.js, ethers.js, Solidity, Smart Contract, Defi, Dex, Golang, Rust, Viem...
 
 Thanks a lot in advance! 
 
 
-## ⚡ Technologies
+<h2>⚡ SKILL SET</h2>
 
 <table align="center">
   <tr>
