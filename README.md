@@ -5,10 +5,9 @@
 </h4>
 
  <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/Supernova1024">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Supernova1024?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+     <a href="https://github.com/leonhiat">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/leonhiat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+     </a>
     </p>
 
 
@@ -19,6 +18,7 @@ I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-drive
 
 <h2>🥇 Main Skills:</h2>
 💧 FrontEnd: HTML, HTML5, CSS, CSS3, SASS, PHP, Laravel, Drupal, Tailwind CSS, JavaScript, jQuery, TypeScript, React, Angular, Vue.js, Redux, Next.js, styled-component, Bootstrap Material UI...
+
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Django Rest Framework, GraphQL...
 
