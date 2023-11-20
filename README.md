@@ -20,8 +20,6 @@ I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-drive
 
 💥 Blockchain: Web3.js, ethers.js, Solidity, Smart Contract, Defi, Dex, Golang, Rust, Viem...<br/>
 
-Thanks a lot in advance! 
-
 
 <h2>⚡ SKILL SET</h2>
 
