@@ -6,15 +6,13 @@
 
 ## 👩  About me:
 <p>
-I am senior <b>AI</b> & <b>Web Developer</b> for 7+ years with <b>Blockchain</b>.<br>
+I am senior <b>Web Developer</b> for 7+ years with <b>Blockchain</b>.<br>
 I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
 
 <h2>🥇 Main Skills:</h2>
-💧 FrontEnd: HTML, HTML5, CSS, CSS3, SASS, PHP, Laravel, Drupal, Tailwind CSS, JavaScript, jQuery, TypeScript, React, Angular, Vue.js, Redux, Next.js, styled-component, Bootstrap Material UI...<br/>
+💧 FrontEnd: HTML/HTML5, CSS/CSS3/SASS, PHP/Laravel, JavaScript/TypeScript/jQuery, React/Next.js, Vue.js/Nuxt.js, Redux, styled-component, Tailwind CSS, Material UI...<br/>
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Django Rest Framework, GraphQL...<br/>
-
-☀️ Mobile App: React Native, Android Java, C#...<br/>
+🔸 BackEnd: Node.js ExpressJS Nest.js Python Django GraphQL...<br/>
 
 🚀 Database: MySQL, MongoDB, PostgreSQL...<br/>
 
